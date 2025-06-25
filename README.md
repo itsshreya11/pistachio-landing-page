@@ -3,7 +3,7 @@
 This is a **responsive landing page** built as part of **Task 2/4** for the **Prodigy Infotech Web Development Internship**.
 
 ## 🌐 Live Demo
-🔗 [View Live Project](https://itsshreya11.github.io/pistachio-landing-page/)
+🔗 [View Live Project]( https://itsshreya11.github.io/pistachio-landing-page/)
 
 ## 💻 Technologies Used
 - HTML5
